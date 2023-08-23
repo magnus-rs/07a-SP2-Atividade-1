@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/magnus/c-sharp/Atividade/Atividade.csproj": {}
+  },
+  "projects": {
+    "/home/magnus/c-sharp/Atividade/Atividade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/magnus/c-sharp/Atividade/Atividade.csproj",
+        "projectName": "Atividade",
+        "projectPath": "/home/magnus/c-sharp/Atividade/Atividade.csproj",
+        "packagesPath": "/home/magnus/.nuget/packages/",
+        "outputPath": "/home/magnus/c-sharp/Atividade/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/magnus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
