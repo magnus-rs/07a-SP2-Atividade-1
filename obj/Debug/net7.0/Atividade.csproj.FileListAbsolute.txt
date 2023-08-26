@@ -12,3 +12,17 @@
 /home/magnus/c-sharp/Atividade/obj/Debug/net7.0/Atividade.pdb
 /home/magnus/c-sharp/Atividade/obj/Debug/net7.0/Atividade.genruntimeconfig.cache
 /home/magnus/c-sharp/Atividade/obj/Debug/net7.0/ref/Atividade.dll
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/bin/Debug/net7.0/Atividade
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/bin/Debug/net7.0/Atividade.deps.json
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/bin/Debug/net7.0/Atividade.runtimeconfig.json
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/bin/Debug/net7.0/Atividade.dll
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/bin/Debug/net7.0/Atividade.pdb
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.AssemblyInfoInputs.cache
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.AssemblyInfo.cs
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.csproj.CoreCompileInputs.cache
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.dll
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/refint/Atividade.dll
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.pdb
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/Atividade.genruntimeconfig.cache
+/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/Debug/net7.0/ref/Atividade.dll
