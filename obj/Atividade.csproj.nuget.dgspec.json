@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/magnus/c-sharp/Atividade/Atividade.csproj": {}
+    "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/Atividade.csproj": {}
   },
   "projects": {
-    "/home/magnus/c-sharp/Atividade/Atividade.csproj": {
+    "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/magnus/c-sharp/Atividade/Atividade.csproj",
+        "projectUniqueName": "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "/home/magnus/c-sharp/Atividade/Atividade.csproj",
+        "projectPath": "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/Atividade.csproj",
         "packagesPath": "/home/magnus/.nuget/packages/",
-        "outputPath": "/home/magnus/c-sharp/Atividade/obj/",
+        "outputPath": "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/magnus/.nuget/NuGet/NuGet.Config"
