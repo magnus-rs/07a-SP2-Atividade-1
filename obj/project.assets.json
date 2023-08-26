@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/Atividade.csproj",
+      "projectUniqueName": "/home/magnus/FullStack/Codificacao_BackEnd/Atividade.csproj",
       "projectName": "Atividade",
-      "projectPath": "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/Atividade.csproj",
+      "projectPath": "/home/magnus/FullStack/Codificacao_BackEnd/Atividade.csproj",
       "packagesPath": "/home/magnus/.nuget/packages/",
-      "outputPath": "/home/magnus/c-sharp/CodBack_07a_SP2_Atividade_1/obj/",
+      "outputPath": "/home/magnus/FullStack/Codificacao_BackEnd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/magnus/.nuget/NuGet/NuGet.Config"
